@@ -1,0 +1,3 @@
+﻿  1laba.cpp
+C:\Users\A181\source\repos\1laba\1laba\1laba.cpp(99,27): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  1laba.vcxproj -> C:\Users\A181\source\repos\1laba\x64\Debug\1laba.exe
